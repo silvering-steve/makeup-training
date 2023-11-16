@@ -1,0 +1,5 @@
+train: train
+val: valid
+
+nc: 8
+names: ['bold_makeup', 'bold_smokey_eye_makeup', 'casual_makeup', 'evening_glamour_makeup', 'evening_makeup', 'fantasy_makeup', 'no_makeup', 'vintage_makeup']
